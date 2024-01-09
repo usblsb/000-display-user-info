@@ -1,0 +1,8 @@
+.user-info-container {
+    /* Estilos para el contenedor principal */
+}
+
+.user-info-container div {
+    /* Estilos comunes para cada div de información */
+    margin-bottom: 10px;
+}
